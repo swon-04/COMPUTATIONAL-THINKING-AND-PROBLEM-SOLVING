@@ -1,0 +1,6 @@
+a = int(input("정수 : "))
+print("누적곱 :", a)
+b = int(input("정수 : "))
+print("누적곱 :", a * b)
+c= int(input("정수 : "))
+print("누적곱 :", a * b * c)

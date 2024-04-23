@@ -1,0 +1,5 @@
+a = int(input("정수1 : "))
+b = int(input("정수2 : "))
+c = int(input("정수3 : "))
+print(f'정수1 : {a} 정수2 : {b} 정수3 : {c}')
+print(f'합 : {a + b + c} 평균 : {(a + b + c) / 3}')

@@ -93,6 +93,7 @@ print('홍길동' in dic_exam)
 print('김길동' in dic_exam)
 '''
 
+'''
 members = {
     'choi' : 93,
     'han' : 50,
@@ -111,3 +112,4 @@ for x in members.values():
     total += x
 
 print("회원 점수 평균 =", total / len(members))
+'''
